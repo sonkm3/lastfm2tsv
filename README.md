@@ -6,7 +6,7 @@ export lastfm history in tsv format.
 * last.fm API key (you can acquire API key from here http://www.lastfm.jp/api/account/create )
  
 # usage
-`python lastfm2tsv -k <apikey> -u <username> [-p <(int)startpage>] [-l <(int)item per page>]`
+`python lastfm2tsv -k <apikey> -u <username> [-p <(int)startpage>] [-i <(int)item per page>] [-m <(int) max page>]`
 
 #tsv format
 <table>
