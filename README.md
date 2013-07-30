@@ -1,6 +1,5 @@
-lastfm2tsv
-
-export lastfm history in tsv format.
+# lastfm2tsv
+Extract lastfm scrobble history into tab separated text file.
 
 # requirement
 * last.fm API key (you can acquire API key from here http://www.lastfm.jp/api/account/create )
